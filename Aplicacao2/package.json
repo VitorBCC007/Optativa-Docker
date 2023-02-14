@@ -1,5 +1,5 @@
 {
-    "name": "aplicacao-2"
+    "name": "aplicacao-2",
     "version": "1.0.0",
     "description": "Node.js + Express",
     "main": "server.js",
