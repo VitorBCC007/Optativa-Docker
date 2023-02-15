@@ -1,7 +1,7 @@
 version: '3.9'
 services:
   test-redis:
-    image: 'redis: alpine'
+    image: 'redis:alpine'
   aplicacao-1:
     restart: on-failure
     build: ./aplicacao-1
